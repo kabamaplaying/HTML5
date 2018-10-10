@@ -3,7 +3,7 @@
     padding-top: 25%;
 }
 body {
-    background-image: url('/img/dog.jpg');
+    background-image: url('../img/dog.jpg');
     background-size: cover;
     background-position: center top;
     color: #fff;
